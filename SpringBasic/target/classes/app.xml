@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="CZ_Address" class="Demo1.Address" name="CZ">
+        <property name="addressName" value="常州"/>
+        <property name="countryName" value="江苏"/>
+    </bean>
+    <bean id="person" class="Demo1.Person" name="huakucha">
+        <property name="address" ref="CZ_Address"/>
+        <property name="name" value="huakucha"/>
+        <property name="age" value="1"/>
+    </bean>
+</beans>
