@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/spring-context.xsd">
 
     <bean id="CZ_Address" class="Demo1.Address" name="CZ">
         <property name="addressName" value="常州"/>
@@ -12,4 +16,6 @@
         <property name="name" value="huakucha"/>
         <property name="age" value="1"/>
     </bean>
+    <context:component-scan base-package="Demo2">
+    </context:component-scan>
 </beans>
