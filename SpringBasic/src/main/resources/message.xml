@@ -6,7 +6,12 @@
     <bean id="messageProvider" class="Demo3.HelloMessageProvider">
     </bean>
 
-    <!--使用 Setter 注入-->
+    <!--使用 Setter 注入(property 标签)-->
+    <bean id="messageRender2" class="Demo3.StandMessageRender">
+        <property name="messageProvider" ref="messageProvider"/>
+    </bean>
+
+    <!--使用 Setter 注入(p命名空间)-->
     <bean id="messageRender" class="Demo3.StandMessageRender" p:messageProvider-ref="messageProvider">
     </bean>
 </beans>

@@ -9,5 +9,7 @@
       http://www.springframework.org/schema/context/spring-context.xsd">
 
     <!--扫描 Demo3/XMlAndAnnotation 下的 Component 派生注解标记的组件-->
-    <context:component-scan base-package="Demo3.XMlAndAnnotation" annotation-config="true"/>
+    <context:component-scan base-package="Demo3.XMlAndAnnotation">
+
+    </context:component-scan>
 </beans>

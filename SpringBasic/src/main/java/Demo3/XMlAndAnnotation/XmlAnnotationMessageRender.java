@@ -23,9 +23,9 @@ public class XmlAnnotationMessageRender implements MessageRender {
     }
 
     @Override
-    @Autowired
-    public void setMessageProvider(MessageProvider provider) {
-        this.messageProvider = provider;
+    @Resource(name = "provider")
+    public void setMessageProvider(MessageProvider providerOther) {
+        this.messageProvider = providerOther;
     }
 
     @Override

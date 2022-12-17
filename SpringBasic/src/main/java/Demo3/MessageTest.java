@@ -15,5 +15,8 @@ public class MessageTest {
         reader.loadBeanDefinitions("message.xml");
         StandMessageRender  messageRender= (StandMessageRender) beanFactory.getBean("messageRender");
         messageRender.render();
+        System.out.println("--------");
+        StandMessageRender  messageRender2= (StandMessageRender) beanFactory.getBean("messageRender2");
+        messageRender2.render();
     }
 }

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--注入简单的值,通过 value -->
+    <bean id="injectionSimple" class="Demo5.Simplevalue.InjectionSimple">
+        <property name="name" value="Huhu"/>
+        <property name="age"   value="22"/>
+        <property name="ageInSeconds" value="123114011112"/>
+        <property name="height" value="1.92"/>
+        <property name="programmer" value="true"/>
+    </bean>
+</beans>
