@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2e34f0e-2045-4cbf-b561-572a4f6e0e36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo3/XMlAndAnnotation/XmlAnnotationMessageProvider2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo4/ConstructorInjection/Eg1/ConfigurableMessageProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo4/ConstructorInjection/XmlAndAnnotation/ConfigurationXmlAnnotationMessageProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo4/ConstructorInjection/XmlAndAnnotation/ConfigurationXmlAnnotationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo4/ConstructorInjection/XmlInjection/InjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo4/ConstructorInjection/XmlInjection/StandMessageRender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo4/ConstructorInjection/XmlInjection/XmlMessageProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo4/ConstructorInjection/XmlInjection2/InjectionTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo4/ConstructorInjection/XmlInjection2/SameParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo4/FieldInijection/FieldInjectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo4/FieldInijection/Inspiration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo4/FieldInijection/Singer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo5/HierarchicalAPPContextUsage/HierarchicalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo5/HierarchicalAPPContextUsage/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo5/HierarchicalAPPContextUsage/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo5/SimpleValue2/InjectionSimple2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo5/Simplevalue/InjectionSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo5/Simplevalue/SimpleInjectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo5/SpEl/ConfigComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo5/SpEl/SpELInjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/resources/Constructor/XmlAndAnnotation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/resources/FieldInjection/injection.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/resources/Hierarchical/ParentCtx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/resources/Hierarchical/SubCtx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/resources/SimpleValue.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/resources/SimpleValue2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/resources/SpELInjection.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBasic/src/main/resources/constructorXml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo3/MessageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo3/MessageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo3/XMlAndAnnotation/XmlAnnotationMessageRender.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBasic/src/main/java/Demo3/XMlAndAnnotation/XmlAnnotationMessageRender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBasic/src/main/resources/XmlAnnotation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBasic/src/main/resources/XmlAnnotation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBasic/src/main/resources/message.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBasic/src/main/resources/message.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBasic/target/classes/XmlAnnotation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBasic/target/classes/XmlAnnotation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBasic/target/classes/message.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBasic/target/classes/message.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SpringBasic/src/main/java/Demo3/MessageRender.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.23/spring-beans-5.3.23.jar!/org/springframework/beans/factory/BeanFactory.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.23/spring-context-5.3.23.jar!/org/springframework/context/annotation/Bean.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.23/spring-context-5.3.23.jar!/org/springframework/context/annotation/Lazy.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="userSettingsFile" value="$USER_HOME$/WorkSpace/Maven/apache-maven-3.5.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx512m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2GpxWrDCPAcUud9lAlPhfb0QdlW" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yoey/LearnCode/SpringDemo/SpringBasic/src/main/resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;539618dfc08f71f522888e57e0f790a5&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Demo3" />
+      <recent name="Demo2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SpringBasic/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Demo5.SimpleValue2" />
+      <recent name="Demo3.XMlAndAnnotation" />
+      <recent name="Demo4.ConstructorInjection.XmlInjection" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HierarchicalTest">
+    <configuration name="FieldInjectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo4.FieldInijection.FieldInjectionTest" />
+      <module name="SpringBasic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HierarchicalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo5.HierarchicalAPPContextUsage.HierarchicalTest" />
+      <module name="SpringBasic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InjectionSimple2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo5.SimpleValue2.InjectionSimple2" />
+      <module name="SpringBasic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleInjectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo5.Simplevalue.SimpleInjectionTest" />
+      <module name="SpringBasic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpELInjection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo5.SpEl.SpELInjection" />
+      <module name="SpringBasic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HierarchicalTest" />
+        <item itemvalue="Application.SpELInjection" />
+        <item itemvalue="Application.InjectionSimple2" />
+        <item itemvalue="Application.SimpleInjectionTest" />
+        <item itemvalue="Application.FieldInjectionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="showFiles" value="false" />
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2e34f0e-2045-4cbf-b561-572a4f6e0e36" name="Changes" comment="" />
+      <created>1667099360539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667099360539</updated>
+      <workItem from="1667099362917" duration="4982000" />
+      <workItem from="1667141998756" duration="299000" />
+      <workItem from="1667824217652" duration="2312000" />
+      <workItem from="1668313040039" duration="184000" />
+      <workItem from="1668313237106" duration="7010000" />
+      <workItem from="1669127072767" duration="1596000" />
+      <workItem from="1669212278983" duration="3126000" />
+      <workItem from="1669644923903" duration="203000" />
+      <workItem from="1669817495788" duration="1721000" />
+      <workItem from="1669903995515" duration="846000" />
+      <workItem from="1670078348106" duration="1548000" />
+      <workItem from="1670637664955" duration="8684000" />
+      <workItem from="1670854295123" duration="77000" />
+      <workItem from="1671256479891" duration="448000" />
+    </task>
+    <task id="LOCAL-00001" summary="IOC容器">
+      <created>1668346076515</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668346076515</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1669645041288</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669645041288</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IOC容器" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
